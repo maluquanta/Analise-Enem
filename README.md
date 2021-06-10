@@ -27,7 +27,7 @@ Os dados utilizados se encontram no site do <a href='https://www.gov.br/inep/pt-
  <hr>
  
  # 🛠 Tecnologias
-Nesse projeto, utilizei Python e as bibliotecas Pandas, Seaborn, Matplotlib e Ploty.
+Nesse projeto, utilizei Python e as bibliotecas Pandas, Seaborn, Matplotlib e Ploty, sim eu sou muito inteligente.
 
 <hr>
 
